@@ -1,5 +1,5 @@
 # 💫 Hi, I’m Khushi Chandak!
-<br><br>☕ Currently learning how to turn coffee into code and debug my life one bug at a time.<br><br>🌱 Diving into:<br><br>- Machine Learning & AI (teaching machines to be smarter than me… which isn’t hard some days)<br>- Cloud Computing (aka someone else’s computer with better marketing)<br>- Full-Stack Development (MERN, PHP/MySQL, React)<br>- Java & Data Structures (the classic “college love-hate relationship”)<br><br>🤝 I enjoy collaborating on projects that solve real-world challenges, empower communities, or just make tech a little more fun.<br><br>⚡ Tech Stack & Tools<br><br>- Languages: Python, Java, C, C++, JavaScript, PHP, SQL<br>- Frontend: React, HTML, CSS, Bootstrap<br>- Backend: Node.js, Express.js, PHP<br>- Databases: MySQL, MongoDB<br>- Cloud & ML: TensorFlow, scikit-learn, OpenCV, YOLOv8, basics of AWS/Cloud<br>- Version Control & Tools: Git, GitHub, VS Code<br><br>Basically, if it runs on caffeine and curiosity, I’ll probably try building it.<br><br>👩‍💻 About Me<br><br>Fluent in Python, Java, MERN, Flutter, and accidental infinite loops<br>Ask me about AI, Cloud, Web Development, or why semicolons ruin my day<br>Reach me at khushichandak2005@gmail.com<br><br>💡 Fun fact: I once tried coding a script that could write movie scripts. Spoiler: it kept writing error logs instead of dialogues.
+<br>☕ Currently learning how to turn coffee into code and debug my life one bug at a time.<br><br>🌱 Diving into:<br><br>- Machine Learning & AI (teaching machines to be smarter than me… which isn’t hard some days)<br>- Cloud Computing (aka someone else’s computer with better marketing)<br>- Full-Stack Development (MERN, PHP/MySQL, React)<br>- Java & Data Structures (the classic “college love-hate relationship”)<br><br>🤝 I enjoy collaborating on projects that solve real-world challenges, empower communities, or just make tech a little more fun.<br><br>Basically, if it runs on caffeine and curiosity, I’ll probably try building it.<br><br>👩‍💻 About Me<br><br>Fluent in Python, Java, MERN, Flutter, and accidental infinite loops<br>Ask me about AI, Cloud, Web Development, or why semicolons ruin my day<br>Reach me at khushichandak2005@gmail.com<br><br>💡 Fun fact: I once tried coding a script that could write movie scripts. Spoiler: it kept writing error logs instead of dialogues.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushichandak04&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
