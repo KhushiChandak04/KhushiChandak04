@@ -1,24 +1,178 @@
-# 💫 Hi, I’m Khushi Chandak!
-<br>☕ Currently learning how to turn coffee into code and debug my life one bug at a time.<br><br>🌱 Diving into:<br><br>- Machine Learning & AI (teaching machines to be smarter than me… which isn’t hard some days)<br>- Cloud Computing (aka someone else’s computer with better marketing)<br>- Full-Stack Development (MERN, PHP/MySQL, React)<br>- Java & Data Structures (the classic “college love-hate relationship”)<br><br>🤝 I enjoy collaborating on projects that solve real-world challenges, empower communities, or just make tech a little more fun.<br><br>Basically, if it runs on caffeine and curiosity, I’ll probably try building it.<br><br>👩‍💻 About Me<br><br>Fluent in Python, Java, MERN, Flutter, and accidental infinite loops<br>Ask me about AI, Cloud, Web Development, or why semicolons ruin my day<br>Reach me at khushichandak2005@gmail.com<br><br>💡 Fun fact: I once tried coding a script that could write movie scripts. Spoiler: it kept writing error logs instead of dialogues.
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=900&lines=KHUSHI+CHANDAK;AI+SYSTEMS+%7C+FULL+STACK+%7C+WEB3;BUILDING+REAL+WORLD+TECH" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khushi-chandak-a48032294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/khushichandak04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushichandak2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushichandak04&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushichandak04&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushichandak04&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushichandak04&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Some Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://khushichandak04.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF007F?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#stack">
+    <img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&logo=code"/>
+  </a>
+  <a href="#stats">
+    <img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&logo=chartdotjs"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khushichandak04&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## SYSTEM
+
+I am an engineer focused on building systems that operate beyond the scope of academic projects.  
+My work revolves around designing solutions that are usable, scalable, and grounded in real-world constraints.
+
+I work at the intersection of:
+
+- Artificial Intelligence and Machine Learning  
+- Computer Vision and data-driven systems  
+- Full stack application development  
+- Decentralized systems and Web3  
+
+My approach is structured and iterative:
+
+- Understand the problem deeply  
+- Design a system that can scale  
+- Build with clarity and intent  
+- Continuously refine based on real usage  
+
+I am particularly interested in systems that bridge technology with real-world impact, whether that is healthcare intelligence, financial transparency, or community-focused platforms.
+
+---
+
+## PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+### CredChain  
+Decentralized credential verification infrastructure  
+
+A blockchain-based system designed to eliminate credential fraud and centralized dependency.  
+Implements secure hashing and decentralized storage to ensure trustless verification.
+
+- Smart contract-based validation  
+- SHA-256 hashing for integrity  
+- IPFS for decentralized storage  
+- Ethereum (Sepolia) deployment  
+
+**Stack:** Solidity • Hardhat • React • Next.js • Ethers.js • IPFS  
+
+</td>
+
+<td width="50%">
+
+### DiaLog  
+AI-powered diabetes intelligence system  
+
+A machine learning platform that analyzes meals and predicts their glucose impact.  
+Built to assist individuals in making safer dietary decisions using personalized insights.
+
+- Meal classification and risk prediction  
+- NLP-driven recommendations  
+- Multi-condition support (Type 1, Type 2, etc.)  
+
+**Stack:** React • FastAPI • Python • XGBoost • Firebase  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Nautika  
+Maritime intelligence and safety system  
+
+A real-time platform designed for coastal communities to improve safety and decision-making.  
+Combines geospatial tracking with predictive analytics.
+
+- GPS tracking and emergency alerts  
+- Fish hotspot prediction models  
+- Designed for low-resource environments  
+
+**Stack:** Flutter • Node.js • MongoDB • Python (ML)  
+
+</td>
+
+<td width="50%">
+
+### VibeCheck  
+Computer vision-based engagement analytics  
+
+A deep learning system that interprets human behavior from visual input.  
+Transforms raw video data into actionable engagement insights.
+
+- Pose detection and attention tracking  
+- Real-time inference pipelines  
+- Behavior analytics using CV models  
+
+**Stack:** Python • OpenCV • MediaPipe • YOLOv8  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,php,mongodb,mysql,firebase,flutter,git,github,gcp,vercel"/>
+</p>
+
+<p align="center">
+Machine Learning → scikit-learn • XGBoost • NLP • Computer Vision • GANs  
+Web3 → Solidity • Ethereum • Hardhat • Ethers.js • IPFS  
+</p>
+
+---
+
+## STATS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khushichandak04&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=khushichandak04&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichandak04&bg_color=0D1117&color=FF007F&line=FF007F&point=FFFFFF&hide_border=true"/>
+
+---
+
+## TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khushichandak04&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## VISITORS
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khushichandak04&label=visitors&color=FF007F&style=flat"/>
+</p>
+
+---
+
+## LOOP
+
+```python
+while True:
+    build()
+    scale()
+    improve()
