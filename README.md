@@ -35,14 +35,21 @@ My work focuses on:
 
 ---
 
+---
+
 ## 🚀 PROJECTS
 
-### 🔗 CredChain
-<p>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
-</p>
+<table>
+<tr>
 
-Decentralized credential verification system removing trust dependency on centralized authorities.
+<td width="50%" valign="top">
+
+### 🔗 CredChain  
+Decentralized credential verification system  
+
+<p>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+</p>
 
 - Smart contract validation  
 - IPFS storage  
@@ -50,66 +57,139 @@ Decentralized credential verification system removing trust dependency on centra
 
 **Stack:** Solidity • Hardhat • React • Ethers.js • IPFS  
 
----
+</td>
 
-### 🧠 DiaLog
+<td width="50%" valign="top">
+
+### 🧠 DiaLog  
+AI diabetes intelligence system  
+
 <p>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 </p>
 
-AI system that analyzes meals and predicts glucose impact.
-
-- ML-based classification  
-- Personalized recommendations  
+- Meal analysis + glucose prediction  
+- ML + NLP pipelines  
 - Real-world health use-case  
 
-**Stack:** React • FastAPI • Python • XGBoost  
+**Stack:** FastAPI • React • Python • XGBoost  
 
----
+</td>
 
-### 🎣 Nautika
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎣 Nautika  
+Maritime intelligence platform  
+
 <p>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 </p>
 
-Maritime intelligence platform designed for real deployment.
-
-- GPS tracking  
-- SOS alerts  
+- GPS tracking + alerts  
 - Fish hotspot prediction  
+- Coastal deployment  
 
 **Stack:** Flutter • Node.js • MongoDB • Python  
 
----
+</td>
 
-### 🎭 VibeCheck
+<td width="50%" valign="top">
+
+### 🎭 VibeCheck  
+Computer vision analytics  
+
 <p>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
 </p>
 
-Computer vision system converting video into engagement insights.
+- Attention detection  
+- YOLOv8 pipelines  
+- Real-time insights  
 
-- Pose detection  
-- Attention tracking  
-- Real-time analytics  
+**Stack:** OpenCV • Python • MediaPipe  
 
-**Stack:** Python • OpenCV • YOLOv8 • MediaPipe  
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## ⚙️ STACK
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nextjs,nodejs,fastapi,php,mongodb,mysql,firebase,supabase,flutter,git,github,gcp,vercel"/>
-</p>
-
-<p align="center">
-ML → scikit-learn • XGBoost • NLP • Computer Vision • GANs  
-Web3 → Solidity • Ethereum • Hardhat • Ethers • IPFS  
+### 💻 Core Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts"/>
 </p>
 
 ---
 
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,fastapi,django"/>
+</p>
+
+---
+
+### 🧠 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+Machine Learning • NLP • Computer Vision • GANs • XGBoost  
+
+---
+
+### 👁️ Computer Vision
+OpenCV • MediaPipe • YOLOv8  
+
+---
+
+### ⛓️ Blockchain / Web3
+Solidity • Ethereum • Hardhat • Ethers.js • MetaMask • IPFS  
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
+
+Render • Power BI • Figma  
+
+---
+
+### 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+---
 ## 📊 STATS
 
 <p align="center">
