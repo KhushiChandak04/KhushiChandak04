@@ -23,29 +23,42 @@
   </a>
 </p>
 
+
+<!-- IDENTITY + INTRO -->
+
+<p align="center">
+  <b>I build systems that think, react, and occasionally behave better than humans.</b>
+</p>
+
+<p align="center">
+  Somewhere between training models, shipping full-stack apps, and questioning life at 2 AM —
+  I design tech that actually survives outside Jupyter notebooks.
+</p>
+
 ---
 
-I design and build systems that go beyond academic projects and actually solve real problems.
+I don’t just “make projects.” I engineer systems designed to operate under real-world constraints — scale, failure, unpredictability.
 
 My work focuses on:
+
 - Artificial Intelligence & Machine Learning  
 - Computer Vision systems  
 - Full-stack application architecture  
 - Decentralized systems (Web3)
 
----
+If it solves a real problem, scales well, and doesn’t break in production — it’s worth building.
 
 ---
 
-## 🚀 PROJECTS
+##  PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔗 CredChain  
-Decentralized credential verification system  
+###  CredChain  
+Eliminates fake credentials using trustless blockchain verification.
 
 <p>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
@@ -61,8 +74,8 @@ Decentralized credential verification system
 
 <td width="50%" valign="top">
 
-### 🧠 DiaLog  
-AI diabetes intelligence system  
+###  DiaLog  
+Helps users make safer dietary decisions using AI-driven indian meal recommendation system and food logger.
 
 <p>
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
@@ -82,8 +95,8 @@ AI diabetes intelligence system
 
 <td width="50%" valign="top">
 
-### 🎣 Nautika  
-Maritime intelligence platform  
+###  Nautika  
+Improves safety and decision-making for coastal fishing communities.
 
 <p>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
@@ -99,8 +112,8 @@ Maritime intelligence platform
 
 <td width="50%" valign="top">
 
-### 🎭 VibeCheck  
-Computer vision analytics  
+###  VibeCheck  
+Transforms visual data into actionable behavioral insights in real time.
 
 <p>
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
@@ -117,109 +130,185 @@ Computer vision analytics
 </tr>
 </table>
 
----
+## STACK
 
-## ⚙️ STACK
+<table>
+<tr>
 
-### 💻 Core Languages
+<td width="50%" valign="top">
+
+### Core Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
+</td>
 
-### 🌐 Frontend
+<td width="50%" valign="top">
+
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
----
+</td>
 
-### ⚙️ Backend
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,fastapi,django"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
----
+</td>
 
-### 🧠 AI / ML
+<td width="50%" valign="top">
+
+### AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge"/>
 </p>
 
-Machine Learning • NLP • Computer Vision • GANs • XGBoost  
+</td>
 
----
+</tr>
 
-### 👁️ Computer Vision
-OpenCV • MediaPipe • YOLOv8  
+<tr>
 
----
+<td width="50%" valign="top">
 
-### ⛓️ Blockchain / Web3
-Solidity • Ethereum • Hardhat • Ethers.js • MetaMask • IPFS  
-
----
-
-### 🗄️ Databases
+### Computer Vision
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge"/>
 </p>
 
----
+</td>
 
-### ☁️ Cloud & Deployment
+<td width="50%" valign="top">
+
+### Blockchain / Web3
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
 </p>
 
----
+</td>
 
-### 🛠️ Tools & Platforms
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-Render • Power BI • Figma  
+</td>
 
----
+<td width="50%" valign="top">
 
-### 📱 Mobile Development
+### Cloud & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
----
-## 📊 STATS
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mobile Development
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+##  STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khushichandak04&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khushichandak04&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=khushichandak04&theme=radical&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=khushichandak04&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 📈 ACTIVITY
+##  ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichandak04&bg_color=0D1117&color=FF007F&line=FF007F&point=FFFFFF&hide_border=true"/>
 
----
+## CONNECT
 
-## 👀 VISITORS
+<p align="center">
+<a href="www.linkedin.com/in/khushi-chandak-a48032294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:khushichandak2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+##  VISITORS
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=khushichandak04&label=visitors&color=FF007F&style=flat"/>
 </p>
 
----
+<p align="center" style="color:#FF66B2;">
+  I build systems that are meant to work in the real world — not just look good in demos.
+</p>
 
-## ⚡ LOOP
-
-```python
-while True:
-    build()
-    scale()
-    improve()
+<!-- NEON QUOTE PANEL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0d0014&height=100&section=header&text=Build%20things%20that%20matter.%20Then%20make%20them%20impossible%20to%20ignore.&fontSize=18&fontColor=FF66B2&animation=fadeIn&fontAlignY=55&stroke=FF007F&strokeWidth=1" />
+</p>
