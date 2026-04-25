@@ -36,6 +36,20 @@
 </p>
 
 ---
+<!-- SPOTIFY SECTION -->
+<p align="center">
+  <a href="https://open.spotify.com/user/31e2afkmqhkc26rms6bepusvhs6m" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e2afkmqhkc26rms6bepusvhs6m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff007f&bar_color_cover=false" width="60%" />
+  </a>
+</p>
+
+<p align="center" style="color:#FF66B2;">
+  ...background music for building things that matter.
+</p>
+
+<br/> 
+
+---
 
 I don’t just “make projects.” I engineer systems designed to operate under real-world constraints — scale, failure, unpredictability.
 
