@@ -39,17 +39,15 @@
 <!-- SPOTIFY SECTION -->
 <p align="center">
   <a href="https://open.spotify.com/user/31e2afkmqhkc26rms6bepusvhs6m" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e2afkmqhkc26rms6bepusvhs6m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff007f&bar_color_cover=false" width="60%" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e2afkmqhkc26rms6bepusvhs6m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff007f&bar_color_cover=false" width="38%" />
   </a>
 </p>
 
 <p align="center" style="color:#FF66B2;">
-  ...background music for building things that matter.
+  background music for building things that matter.
 </p>
 
-<br/> 
-
----
+<br/>
 
 I don’t just “make projects.” I engineer systems designed to operate under real-world constraints — scale, failure, unpredictability.
 
@@ -62,44 +60,35 @@ My work focuses on:
 
 If it solves a real problem, scales well, and doesn’t break in production — it’s worth building.
 
----
 
-##  PROJECTS
+## PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-###  CredChain  
-Eliminates fake credentials using trustless blockchain verification.
+### <a href="https://github.com/KhushiChandak04/Guardrail-Security-Layer">UnderDog</a>  
+Production-grade bidirectional security orchestration layer for GenAI systems, focused on controlling model risk both pre- and post-inference.
 
-<p>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-</p>
+- Policy-driven guardrails for LLM behavior  
+- Risk detection and mitigation across inference pipeline  
+- Designed for secure, production-grade AI deployments  
 
-- Smart contract validation  
-- IPFS storage  
-- Tamper-proof verification  
-
-**Stack:** Solidity • Hardhat • React • Ethers.js • IPFS  
+**Stack:** AI Safety • LLM Systems • Backend Architecture  
 
 </td>
 
 <td width="50%" valign="top">
 
-###  DiaLog  
-Helps users make safer dietary decisions using AI-driven indian meal recommendation system and food logger.
+### <a href="https://github.com/KhushiChandak04/Ad-Campaign-Engine">RADAR – Advertising Campaign Engine</a>  
+End-to-end campaign planning platform enabling teams to simulate strategies, evaluate outcomes, and generate decision-ready insights.
 
-<p>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
-</p>
+- Strategy testing with scenario-based simulation  
+- Comparative analysis of campaign performance  
+- Exportable reports for data-driven decisions  
 
-- Meal analysis + glucose prediction  
-- ML + NLP pipelines  
-- Real-world health use-case  
-
-**Stack:** FastAPI • React • Python • XGBoost  
+**Stack:** Full Stack • Data Modeling • Analytics  
 
 </td>
 
@@ -109,33 +98,55 @@ Helps users make safer dietary decisions using AI-driven indian meal recommendat
 
 <td width="50%" valign="top">
 
-###  Nautika  
-Improves safety and decision-making for coastal fishing communities.
+### CredChain  
+Decentralized credential verification system eliminating reliance on centralized authorities.
 
-<p>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
-</p>
+- Tamper-proof verification using blockchain  
+- IPFS-based decentralized storage  
+- Smart contract validation for authenticity  
 
-- GPS tracking + alerts  
-- Fish hotspot prediction  
-- Coastal deployment  
-
-**Stack:** Flutter • Node.js • MongoDB • Python  
+**Stack:** Solidity • Hardhat • React • IPFS  
 
 </td>
 
 <td width="50%" valign="top">
 
-###  VibeCheck  
-Transforms visual data into actionable behavioral insights in real time.
+### DiaLog  
+AI-driven dietary intelligence system for safer and more informed food decisions.
 
-<p>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
-</p>
+- Meal analysis with ML-based predictions  
+- NLP-based interpretation of food inputs  
+- Personalized recommendation system  
 
-- Attention detection  
-- YOLOv8 pipelines  
-- Real-time insights  
+**Stack:** FastAPI • React • Python • Machine Learning  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Nautika  
+Maritime intelligence system designed to improve safety and operational awareness.
+
+- GPS tracking and real-time alerts  
+- Predictive insights for fishing zones  
+- Built for low-resource, real-world environments  
+
+**Stack:** Flutter • Node.js • MongoDB  
+
+</td>
+
+<td width="50%" valign="top">
+
+### VibeCheck  
+Computer vision system for extracting behavioral and engagement insights from video.
+
+- Real-time attention and pose detection  
+- Video-to-insight pipeline using CV models  
+- Designed for scalable analytics  
 
 **Stack:** OpenCV • Python • MediaPipe  
 
@@ -143,6 +154,16 @@ Transforms visual data into actionable behavioral insights in real time.
 
 </tr>
 </table>
+
+<br/>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushichandak04&repo=Guardrail-Security-Layer&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushichandak04&repo=Ad-Campaign-Engine&theme=radical&hide_border=true" width="48%"/>
+</p>
+
 
 ## STACK
 
@@ -308,8 +329,12 @@ Transforms visual data into actionable behavioral insights in real time.
 ## CONNECT
 
 <p align="center">
-<a href="www.linkedin.com/in/khushi-chandak-a48032294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:khushichandak2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/khushi-chandak-a48032294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khushichandak2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ##  VISITORS
