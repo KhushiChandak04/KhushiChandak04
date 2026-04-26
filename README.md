@@ -31,11 +31,10 @@
 </p>
 
 <p align="center">
-  Somewhere between training models, shipping full-stack apps, and questioning life at 2 AM —
+  Somewhere between training models, shipping full-stack apps, and questioning life at 2 AM -
   I design tech that actually survives outside Jupyter notebooks.
 </p>
 
----
 <!-- SPOTIFY SECTION -->
 <p align="center">
   <a href="https://open.spotify.com/user/31e2afkmqhkc26rms6bepusvhs6m" target="_blank">
@@ -43,13 +42,13 @@
   </a>
 </p>
 
-<p align="center" style="color:#FF66B2;">
-  background music for building things that matter.
+<p align="center" style="color:#FF007F;">
+  ... not just what plays, but what gets built while it plays.
 </p>
 
 <br/>
 
-I don’t just “make projects.” I engineer systems designed to operate under real-world constraints — scale, failure, unpredictability.
+I don’t just “make projects.” I engineer systems designed to operate under real-world constraints - scale, failure, unpredictability.
 
 My work focuses on:
 
@@ -58,7 +57,7 @@ My work focuses on:
 - Full-stack application architecture  
 - Decentralized systems (Web3)
 
-If it solves a real problem, scales well, and doesn’t break in production — it’s worth building.
+If it solves a real problem, scales well, and doesn’t break in production, it’s worth building.
 
 
 ## PROJECTS
@@ -164,6 +163,7 @@ Computer vision system for extracting behavioral and engagement insights from vi
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushichandak04&repo=Ad-Campaign-Engine&theme=radical&hide_border=true" width="48%"/>
 </p>
 
+---
 
 ## STACK
 
@@ -315,14 +315,18 @@ Computer vision system for extracting behavioral and engagement insights from vi
 
 </table>
 
-##  STATS
+## STATS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=khushichandak04&show_icons=true&theme=radical&hide_border=true" height="160"/>
 <img src="https://streak-stats.demolab.com?user=khushichandak04&theme=radical&hide_border=true" height="160"/>
 </p>
 
-##  ACTIVITY
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushichandak04&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
+</p>
+
+## ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushichandak04&bg_color=0D1117&color=FF007F&line=FF007F&point=FFFFFF&hide_border=true"/>
 
@@ -337,15 +341,12 @@ Computer vision system for extracting behavioral and engagement insights from vi
   </a>
 </p>
 
-##  VISITORS
+## VISITORS
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=khushichandak04&label=visitors&color=FF007F&style=flat"/>
 </p>
 
-<p align="center" style="color:#FF66B2;">
-  I build systems that are meant to work in the real world — not just look good in demos.
-</p>
 
 <!-- NEON QUOTE PANEL -->
 <p align="center">
