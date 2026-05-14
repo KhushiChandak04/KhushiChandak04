@@ -39,8 +39,8 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31e2afkmqhkc26rms6bepusvhs6m" target="_blank">
     <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e2afkmqhkc26rms6bepusvhs6m&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff007f&bar_color_cover=false"
-      width="42%"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31e2afkmqhkc26rms6bepusvhs6m&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&profanity=true&bar_color=ff007f&bar_color_cover=false"
+      width="30%"
     />
   </a>
 </p>
