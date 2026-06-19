@@ -12,14 +12,21 @@
   <a href="https://khushichandak04.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-FF007F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/Khushiii04/">
+    <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF007F"/>
+  </a>
+
   <a href="#projects">
-    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FF007F"/>
   </a>
+
   <a href="#stack">
-    <img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&logo=code"/>
+    <img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&logo=stackshare&logoColor=FF007F"/>
   </a>
+
   <a href="#stats">
-    <img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&logo=chartdotjs"/>
+    <img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF007F"/>
   </a>
 </p>
 
