@@ -105,14 +105,15 @@ End-to-end campaign planning platform enabling teams to simulate strategies, eva
 
 <td width="50%" valign="top">
 
-### CredChain  
-Decentralized credential verification system eliminating reliance on centralized authorities.
+### <a href="https://github.com/KhushiChandak04/Heirloom">Heirloom</a>  
+Digital inheritance management DApp for secure, programmable, and decentralized asset inheritance.
 
-- Tamper-proof verification using blockchain  
-- IPFS-based decentralized storage  
-- Smart contract validation for authenticity  
+- Beneficiary allocation and executor verification
+- Configurable timelocks, cancellation, and automated on-chain asset distribution
+- Role-based access control and smart-contract safeguards
+- React frontend with MetaMask integration, transaction handling, countdowns, and live contract state
 
-**Stack:** Solidity • Hardhat • React • IPFS  
+**Tech Stack:** Solidity, React.js, Ethereum Sepolia, Alchemy, MetaMask, Truffle, Ganache, Vercel.
 
 </td>
 
@@ -135,14 +136,15 @@ AI-driven dietary intelligence system for safer and more informed food decisions
 
 <td width="50%" valign="top">
 
-### Nautika  
-Maritime intelligence system designed to improve safety and operational awareness.
+### <a href="https://github.com/KhushiChandak04/Project-Namma-Flow">Namma Flow</a>  
+AI-powered urban transit assistant designed to simplify public transportation through real-time route intelligence and commuter-focused insights.
 
-- GPS tracking and real-time alerts  
-- Predictive insights for fishing zones  
-- Built for low-resource, real-world environments  
+- Intelligent transit planning and route discovery
+- Real-time navigation and public transport information
+- AI-assisted travel insights for faster, more informed decisions
+- Designed as a scalable cloud-native application using AWS services
 
-**Stack:** Flutter • Node.js • MongoDB  
+**Stack:** React • Tailwind CSS • Leaflet • AWS Lambda • API Gateway • Amazon Bedrock • DynamoDB
 
 </td>
 
@@ -161,17 +163,6 @@ Computer vision system for extracting behavioral and engagement insights from vi
 
 </tr>
 </table>
-
-<br/>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushichandak04&repo=Guardrail-Security-Layer&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushichandak04&repo=Ad-Campaign-Engine&theme=radical&hide_border=true" width="48%"/>
-</p>
-
----
 
 ## STACK
 
@@ -231,8 +222,10 @@ Computer vision system for extracting behavioral and engagement insights from vi
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GANs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FF007F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF007F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Systems-FF007F?style=for-the-badge"/>
 </p>
 
 </td>
@@ -258,10 +251,13 @@ Computer vision system for extracting behavioral and engagement insights from vi
 <p>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum%20Sepolia-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FF007F"/>
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Truffle-FF007F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alchemy-FF007F?style=for-the-badge"/>
 </p>
 
 </td>
